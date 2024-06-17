@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("https://png.pngtree.com/background/20210715/original/pngtree-abstract-digital-data-grid-system-with-light-effects-in-black-background-picture-image_1257400.jpg");
+    color: #FFF;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section {
+    text-align: center;
+    background-color: #060031c8;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+    box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset, rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset, rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset, rgba(0, 0, 0, 0.06) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 0 30px;
+    height: 10vh;
+}
+
+p {
+    font-size: 30px;
+
+}
