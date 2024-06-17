@@ -1,9 +1,9 @@
-## Exercícios de JavaScript: Conceitos Fundamentais
+# Exercícios de JavaScript: Conceitos Fundamentais
 
 <p>Este repositório contém uma série de exemplos e exercícios que abordam conceitos fundamentais do JavaScript. Cada exemplo visa demonstrar o uso de condições, loops, funções, arrays, métodos de arrays e objetos. Estes exercícios são destinados a iniciantes que desejam fortalecer sua compreensão de JavaScript.</p>
 <p>As informações aparecem no console do navegador, mas também criei uma interface para deixar tudo mais interessante.🤩</p>
 
-# Conteúdo
+## Conteúdo
 <ul>
   <li>Condições</li>
   <li>Loops</li>
